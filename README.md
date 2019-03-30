@@ -1,2 +1,109 @@
-# pantalla
-trabajo
+<html>
+  <head>
+    <title><h1>Blog de musica retro</h1></title>
+       <style>
+         h1{
+         color:blue;
+         margin: 5px;
+         padding: 5px;
+         }
+         .contenedor{
+         text-aling: center;
+         background: whrite;
+         border:2px solid black;
+         height: 500px;
+         width: 700;
+         float: left;
+         
+         }
+         .contenedor2{
+         text-aling: center;
+         background: whrite;
+         border:2px solid black;
+         height: 250px;
+         width: 250;
+         float: left;
+         
+         }
+         .contenedor3{
+         text-aling: center;
+         background: whrite;
+         border:2px solid black;
+         height: 250px;
+         width: 250;
+         float: left;
+         }
+         
+         </style>
+         </head>
+         <body>
+         <input type="button" value="Inicio">
+         <input type="button" value="categoria1">
+         <input type="button" value="categoria2">
+         <input type="button" value="categoria3">
+         <input type="button" value="categoria4">
+         <input type="button" value="Sobre Mi">
+         
+         <div class="contenedor2">
+         <h5><font color="black">Identificate</h5>
+                 E-mail:
+                 <input type="text">
+                 <br>password:
+                 <input type="password">
+                 <a herf=index.html>entrar</a>
+                 </div>
+                 
+           
+           <style>
+           <!--In Mobile you can´t able to see the difference-->
+           <select>
+           <option>option1</option>
+             <div class="contenedor">
+                     <h1><font color="black">Ultima entradas</h1>
+                   </style>
+                   </body>
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+         
+         
+         
+         
+         
+         
