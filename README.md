@@ -44,22 +44,14 @@
          <input type="button" value="categoria4">
          <input type="button" value="Sobre Mi">
          
-         <div class="contenedor2">
-         <h5><font color="black">Identificate</h5>
-                 E-mail:
-                 <input type="text">
-                 <br>password:
-                 <input type="password">
-                 <a herf=index.html>entrar</a>
-                 </div>
-                 
-           
+        
            <style>
            <!--In Mobile you can´t able to see the difference-->
            <select>
            <option>option1</option>
              <div class="contenedor">
                      <h1><font color="black">Ultima entradas</h1>
+                    </div>  
                    </style>
                    </body>
            
