@@ -14,8 +14,8 @@
          height: 500px;
          width: 700;
          float: left;
-         
          }
+         
          .contenedor2{
          text-aling: center;
          background: whrite;
@@ -45,12 +45,11 @@
          <input type="button" value="Sobre Mi">
          
         
-           <style>
+           
              <div class="contenedor">
                      <h1><font color="black">Ultima entradas</h1>
                     </div>  
-                   </style>
-                   </body>
+                </body>
           </html> 
            
            
