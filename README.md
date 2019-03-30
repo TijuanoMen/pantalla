@@ -7,13 +7,13 @@
    margin: 5px;
    padding: 5px;
    }
-   .contenedor{
+   .contenedor1{
    text-aling: center;
    background: whrite;
    border: 2px solid black;
-   height: 500px;
-   width: 700px;
-   float: left;
+   height: 250px;
+   width: 250px;
+   float: right;
    }
    .contenedor2{
     text-aling: center;
@@ -49,6 +49,15 @@
      <input type="password">
       <center><input type="button" value="Entrar"></center>
      </div>
+     <div class="contenedor1">
+     <h5>Identificate</h5>
+      E-mail:
+    <input type="text">
+    <br>password:
+     <input type="password">
+      <center><input type="button" value="Entrar"></center>
+     </div>
+     
      
         <div class="contenedor3">
      <h3><font color="blue">Titulo1
@@ -58,7 +67,8 @@
      <h3><font color="blue">Titulo3
      <h5><font color="black">Al crear la maquetacion de una pagina web en
       <center><input type="button" value="Entrar"></center>
-           
+          </div>
+          
            
            
            
