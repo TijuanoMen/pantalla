@@ -46,15 +46,12 @@
          
         
            <style>
-           <!--In Mobile you can´t able to see the difference-->
-           <select>
-           <option>option1</option>
              <div class="contenedor">
                      <h1><font color="black">Ultima entradas</h1>
                     </div>  
                    </style>
                    </body>
-           
+          </html> 
            
            
            
