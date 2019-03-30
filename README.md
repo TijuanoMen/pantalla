@@ -47,7 +47,7 @@
         
            
              <div class="contenedor">
-                     <h2>Ultima entradas</h2>
+                     <h1><font color="black">Ultima entradas</h1>
                     </div>  
                 </body>
           </html> 
