@@ -7,13 +7,13 @@
    margin: 5px;
    padding: 5px;
    }
-   .contenedor1{
+   .contenedor{
    text-aling: center;
    background: whrite;
    border: 2px solid black;
    height: 250px;
    width: 250px;
-   float: right;
+   float: left;
    }
    .contenedor2{
     text-aling: center;
@@ -42,14 +42,6 @@
      <input type="button" value="Sobre Mi">
      
      <div class="contenedor2">
-     <h5>Identificate</h5>
-      E-mail:
-    <input type="text">
-    <br>password:
-     <input type="password">
-      <center><input type="button" value="Entrar"></center>
-     </div>
-     <div class="contenedor1">
      <h5>Identificate</h5>
       E-mail:
     <input type="text">
