@@ -20,7 +20,7 @@
  <div class="mrgn_cls">
   <h1>Cocinando Sabrosano y Ricopollo</h1>
   <img src="https://lh3.googleusercontent.com/m45P_rlvoeBTzhdpnT4vP4d5Qy5_3-R9-fspGI5Xng7ngkPDTd9GsxZ0FFOpN35Ax_8" height="300" width="300">
-  <h2><font color="gold">"Dale sabor a tu vida"</h2>
+  <h2><font color="gold">"Dale sabor a tu vida"
        
  </div> 
 </body> 
