@@ -7,9 +7,9 @@
  <style> 
   .mrgn_cls { 
    /*margin-left,margin-right,margin-top,margin-bottom*/ 
-   margin: 100px; 
-   width: 100px; 
-   height: 100px; 
+   margin: 950px; 
+   width: 950px; 
+   height: 950px; 
    background: red; 
   } 
  </style> 
