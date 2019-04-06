@@ -8,8 +8,8 @@
   .mrgn_cls { 
    /*margin-left,margin-right,margin-top,margin-bottom*/ 
    margin: 100px; 
-   width: 950px; 
-   height: 950px; 
+   width: 1200px; 
+   height: 1200px; 
    background: red; 
   } 
  </style> 
